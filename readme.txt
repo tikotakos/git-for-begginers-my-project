@@ -2,4 +2,4 @@ Welcome to the "Git for Begginers" MyProject!
 
 Author:Kostas Klaoudios Kalaitzis
 Twitter: @kostaskalaitzis
-Website: www.kostaskalaitzis.com
+Website: https://www.kostaskalaitzis.com
