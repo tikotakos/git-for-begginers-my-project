@@ -1,4 +1,4 @@
 Welcome to MyProject!
 
-Author:Kostas Klaoudios Kalaitzis
+Author:Kostas Klaoudios 
 Twitter: @kostaskalaitzis
