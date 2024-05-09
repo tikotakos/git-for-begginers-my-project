@@ -1,4 +1,4 @@
-Welcome to MyProject!
+Welcome to the "Git for Begginers" MyProject!
 
 Author:Kostas Klaoudios Kalaitzis
 Twitter: @kostaskalaitzis
